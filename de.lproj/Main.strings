@@ -1,0 +1,69 @@
+/* Class = "IBUIButton"; normalTitle = "Get Started"; ObjectID = "1Qd-JZ-DfP"; */
+"1Qd-JZ-DfP.normalTitle" = "Erste Schritte";
+
+/* Class = "IBUIButton"; normalTitle = "Yes"; ObjectID = "2Us-Ub-UiD"; */
+"2Us-Ub-UiD.normalTitle" = "Ja";
+
+/* Class = "IBUILabel"; text = "HAVE YOU BEEN HERE"; ObjectID = "4Cw-c5-hxN"; */
+"4Cw-c5-hxN.text" = "Warst du schon hier";
+
+/* Class = "IBUILabel"; text = "You've dined here. What did you think?"; ObjectID = "4oX-hE-Jks"; */
+"4oX-hE-Jks.text" = "Sie haben hier zu Abend gegessen. Was haben Sie gedacht?";
+
+/* Class = "IBUINavigationItem"; title = "New Restaurant"; ObjectID = "9qt-5y-QtU"; */
+"9qt-5y-QtU.title" = "neues Restaurant";
+
+/* Class = "IBUITabBarItem"; title = "Feed"; ObjectID = "B2M-ux-Cx3"; */
+"B2M-ux-Cx3.title" = "Feed";
+
+/* Class = "IBUILabel"; text = "TYPE"; ObjectID = "Dyq-cl-F0a"; */
+"Dyq-cl-F0a.text" = "ART";
+
+/* Class = "IBUILabel"; text = "Location"; ObjectID = "ENb-Hz-KDQ"; */
+"ENb-Hz-KDQ.text" = "Lage";
+
+/* Class = "IBUIButton"; normalTitle = "Visit our website"; ObjectID = "H5F-Yc-vqe"; */
+"H5F-Yc-vqe.normalTitle" = "Besuchen Sie unsere Website";
+
+/* Class = "IBUILabel"; text = "LOCATION"; ObjectID = "Kfk-MR-HES"; */
+"Kfk-MR-HES.text" = "LAGE";
+
+/* Class = "IBUITextField"; placeholder = "Restaurant Location"; ObjectID = "LlQ-T9-Vod"; */
+"LlQ-T9-Vod.placeholder" = "Restaurant Lage";
+
+/* Class = "IBUILabel"; text = "NAME"; ObjectID = "Q0C-Pg-iIQ"; */
+"Q0C-Pg-iIQ.text" = "NAME";
+
+/* Class = "IBUILabel"; text = "Got Questions?"; ObjectID = "Q08-gg-Qz0"; */
+"Q08-gg-Qz0.text" = "Noch Fragen?";
+
+/* Class = "IBUINavigationItem"; title = "Feed"; ObjectID = "ROM-8X-MRU"; */
+"ROM-8X-MRU.title" = "Feed";
+
+/* Class = "IBUINavigationItem"; title = "About"; ObjectID = "Tgd-o8-c89"; */
+"Tgd-o8-c89.title" = "über";
+
+/* Class = "IBUIButton"; normalTitle = "No"; ObjectID = "WIv-DN-rOY"; */
+"WIv-DN-rOY.normalTitle" = "nicht";
+
+/* Class = "IBUILabel"; text = "Name"; ObjectID = "Y1Z-og-ut6"; */
+"Y1Z-og-ut6.text" = "Name";
+
+/* Class = "IBUIButton"; normalTitle = "Contact Us"; ObjectID = "bY2-Uv-3e9"; */
+"bY2-Uv-3e9.normalTitle" = "kontaktieren Sie uns";
+
+/* Class = "IBUILabel"; text = "Type"; ObjectID = "eaf-Pa-ITO"; */
+"eaf-Pa-ITO.text" = "Art";
+
+/* Class = "IBUILabel"; text = "You're just a tap away"; ObjectID = "igf-bP-Jhh"; */
+"igf-bP-Jhh.text" = "Sie sind nur einen Fingertipp entfernt";
+
+/* Class = "IBUITextField"; placeholder = "Restaurant Type"; ObjectID = "kfU-jO-ECG"; */
+"kfU-jO-ECG.placeholder" = "Restaurant Type";
+
+/* Class = "IBUITextField"; placeholder = "Restaurant Name"; ObjectID = "piC-2j-ea0"; */
+"piC-2j-ea0.placeholder" = "Restaurant Name";
+
+/* Class = "IBUIButton"; normalTitle = "Map"; ObjectID = "wld-xE-9KW"; */
+"wld-xE-9KW.normalTitle" = "Karte";
+
